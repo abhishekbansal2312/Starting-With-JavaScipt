@@ -36,3 +36,5 @@ User.greetings = function(){
     console.log(`hello USer, ${this["full name"]}`)
 }
 console.log(User.greetings());
+
+
