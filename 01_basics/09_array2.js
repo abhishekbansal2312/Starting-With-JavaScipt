@@ -5,8 +5,8 @@ const vowels =["a","e","i","o","u"]
 // console.log(alp);
 // [ 'a', 'b', 'c', 'd', 'e', [ 'a', 'e', 'i', 'o', 'u' ] ]
 
-// alp.concat(vowels);
-// console.log(alp);
+alp.concat(vowels);
+console.log(alp);
 // [ 'a', 'b', 'c', 'd', 'e', [ 'a', 'e', 'i', 'o', 'u' ] ]
 
 // const letters = alp.concat(vowels)
@@ -30,4 +30,4 @@ const vowels =["a","e","i","o","u"]
 //     3
 //   ]
 
-console.log(Array.from("Abhishek"));
+// console.log(Array.from("Abhishek"));

@@ -2,7 +2,7 @@ let value= "33abc"
 console.log(typeof(value));//string
 let stringToNum = Number(value);
 console.log(typeof(stringToNum));//number
-console.log(stringToNum);//nan
+console.log(stringToNum);//nan 
 
 
 let value2= null;
